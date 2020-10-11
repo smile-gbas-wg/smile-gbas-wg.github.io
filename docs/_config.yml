@@ -22,10 +22,10 @@ title: SMILE-GBAS-WG
 email: jac48@le.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   SMILE Ground-based and Additional Science Working Group updates, actions, and other shared content
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+baseurl: "/actions" # the subpath of your site, e.g. /blog
+url: "https://smile-gbas-wg.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: SMILEesacas
+github_username: SMILE-GBAS-WG 
 
 # Build settings
 theme: minima
